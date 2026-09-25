@@ -1,6 +1,6 @@
 # Stein Mouse
 
-Inventory mouse gestures, for the **[Stein Loader](https://github.com/x4vieer/stein-labs)** (Minecraft 1.8.9 on
+Inventory mouse gestures, for the **[Stein Loader](https://github.com/x4vieer/stein-loader)** (Minecraft 1.8.9 on
 Java 25). The two Mouse Tweaks gestures that actually get used, written from scratch.
 
 **[Download Mouse.steinmod](https://github.com/x4vieer/stein-mouse/releases/latest/download/Mouse.steinmod)** —
